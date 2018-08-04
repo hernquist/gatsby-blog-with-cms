@@ -1,7 +1,9 @@
 backend: 
-  name: test-repo
+  name: github
+  repo: hernquist/gatsby-blog-with-cms
 
 media_folder: static/assets
+
 
 collections:
   - name: post
