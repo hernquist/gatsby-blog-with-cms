@@ -3,6 +3,7 @@ backend:
   repo: hernquist/gatsby-blog-with-cms
 
 media_folder: static/assets
+public_folder: /assets
 
 
 collections:
