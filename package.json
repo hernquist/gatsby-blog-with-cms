@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "name": "gatsby-blog-netlify-cms",
+  "description": "basic blog that uses netlify to deploy and write blog posts from",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "david hernquist <hernquistdavid@gmail.com>",
   "dependencies": {
     "gatsby": "^1.9.277",
     "gatsby-image": "^1.0.38",
